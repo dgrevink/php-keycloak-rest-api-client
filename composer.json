@@ -1,5 +1,5 @@
 {
-    "name": "fschmtt/keycloak-rest-api-client-php",
+    "name": "dgrevink/php-keycloak-rest-api-client",
     "description": "PHP client to interact with Keycloak's Admin REST API.",
     "type": "library",
     "require": {
@@ -30,6 +30,10 @@
     },
     "license": "mit",
     "authors": [
+        {
+            "name": "David Grevink",
+            "email": "david@starplace.org"
+        },
         {
             "name": "Frederik Schmitt",
             "email": "frederik.schmitt96@gmail.com"
